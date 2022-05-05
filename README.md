@@ -64,5 +64,5 @@ Table below shows the average scores and passing percentages based on the school
 
 ![image](https://user-images.githubusercontent.com/103223944/166983256-81c82dbb-223c-44c1-a296-5c9d929003e0.png)
 
-### Summary
+## Summary
 The district school’s data was analyzed to assess the student’s performance in math and reading exams and its correlation with the school type, size and spending budget. Due to evidence of academic dishonesty, the math and reading scores for ninth graders at Thomas High School were excluded from the analysis. In general, this slightly reduced the average scores and passing percentages for the district which showed those scores were slightly above the average of the district’s scores. The effect was really small as those scores were only a small subset of the data and therefore their removal did not change the overall results by much. 
